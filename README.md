@@ -55,6 +55,6 @@ Para acessar diretamente, acesse a lista Python crias: https://www.youtube.com/w
 
 ## Contatos
 
-E-mail: claudiobonel@gmail.com
-Instagram: @bonelclaudio
-LinkedIn: http://br.linkedin.com/in/bonel
+- Email: claudiobonel@gmail.com
+- Instagram: @bonelclaudio
+- LinkedIn: http://br.linkedin.com/in/bonel
